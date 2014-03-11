@@ -1,4 +1,4 @@
-QI_Plantform
+Chess Game Agent
 ============
 A Five-Chess Game AI Tester.
 
