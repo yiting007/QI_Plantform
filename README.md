@@ -3,7 +3,7 @@ Five Chess Game Intelligent Agent
 
 An AI tester written in WPF and an intelligent agent written in C++.
 
-![alt tag](https://github.com/Yiting007/QI_Plantform/blob/master/platform.PNG)
+![alt tag](https://raw.github.com/Yiting007/QI_Plantform/master/platform.PNG)
 
 1. AI tester:
 -----------------------------------  
